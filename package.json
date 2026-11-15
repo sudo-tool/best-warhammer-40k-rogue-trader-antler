@@ -1,0 +1,31 @@
+{
+  "keyword": "Warhammer 40,000: Rogue Trader",
+  "slug": "best-warhammer-40k-rogue-trader-antler",
+  "game": "warhammer-40k-rogue-trader",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 9,
+  "short_link": "https://share.google/mBeovH9LyPVh3KXYs",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "None (single-player)",
+  "modules": [],
+  "has_skins": false,
+  "players": 3615,
+  "keepalive": {
+    "file": ".github/workflows/refresh-content.yml",
+    "name": "Refresh content",
+    "crons": [
+      "48 3 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s7",
+    "label": "Get instructions New",
+    "icon": "download"
+  },
+  "files": 31,
+  "bytes": 2302732
+}
